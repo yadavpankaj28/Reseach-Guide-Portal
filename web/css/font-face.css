@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'beyond_wonderlandregular';
+    src: url('../fonts/beyond-wonderland/beyond_wonderland-webfont.woff2') format('woff2'),
+         url('../fonts/beyond-wonderland/beyond_wonderland-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'clementine_sketchregular';
+    src: url('../fonts/clementine-sketch/clementine_sketch-webfont.woff2') format('woff2'),
+         url('../fonts/clementine-sketch/clementine_sketch-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'blackchanceryregular';
+    src: url('../fonts/blackchancery/blkchcry-webfont.woff2') format('woff2'),
+         url('../fonts/blackchancery/blkchcry-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'expresswayregular';
+    src: url('../fonts/expressway/expressway_rg-webfont.woff2') format('woff2'),
+         url('../fonts/expressway/expressway_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'signature';
+    src: url('../fonts/pwsignaturetwo/pwsignaturetwo-webfont.woff2') format('woff2'),
+         url('../fonts/pwsignaturetwo/pwsignaturetwo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'signature_date';
+    src: url('../fonts/mr-de-haviland/mrdehaviland-regular-webfont.woff2') format('woff2'),
+         url('../fonts/mr-de-haviland/mrdehaviland-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,9 @@
+label{
+    color:#000 !important;
+    font-size: 14px !important;
+}
+
+textarea{
+    resize: none !important;
+    
+}
